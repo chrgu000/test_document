@@ -17,6 +17,7 @@ mysql
 	root@aa791011aa
 
 
+
 gogs(git代码库)
 	http://192.168.1.28:3000/
 	
@@ -78,6 +79,19 @@ huawei
 12345678
 
 
+新生测试生产环境####################################
+cpu16核 内存128G 
+硬盘
+1T
+
+内网IP:192.168.1.19
+
+root/Homa^&12a
+appuser/HeMei457@#
+
+
+
+
 生产环境1###################################
 外网IP:118.126.91.140
 内网IP:172.16.32.7
@@ -94,6 +108,11 @@ jdbc.driver=com.mysql.jdbc.Driver
 jdbc.url=jdbc:mysql://172.16.32.7:3306/way_robot_kb?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false
 jdbc.username=way_gkb
 jdbc.password=work@gkb372!
+
+主机名或 IP 地址: 192.168.1.85
+端口: 3307
+用户名: way_gkb
+保存密码: work@gkb372!
 
 
 
